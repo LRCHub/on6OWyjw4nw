@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕が僕じゃないみたいだ",
+  "base_artist": "SixTONES",
+  "createdAt": "2026-02-16T07:36:12.030024Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕が僕じゃないみたいだ",
+      "artist": "SixTONES",
+      "has_synced": false,
+      "path": "select/pl_01_僕が僕じゃないみたいだ_SixTONES.txt"
+    }
+  ]
+}
